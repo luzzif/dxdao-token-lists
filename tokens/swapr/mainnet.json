@@ -1,0 +1,321 @@
+[
+    {
+        "chainId": 1,
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
+    },
+    {
+        "chainId": 1,
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USDT",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
+    },
+    {
+        "chainId": 1,
+        "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+        "name": "TrueUSD",
+        "decimals": 18,
+        "symbol": "TUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/3449/thumb/tusd.png?1618395665"
+    },
+    {
+        "chainId": 1,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+    },
+    {
+        "chainId": 1,
+        "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+        "name": "Paxos Standard",
+        "decimals": 18,
+        "symbol": "PAX",
+        "logoURI": "https://assets.coingecko.com/coins/images/6013/thumb/paxos_standard.png?1548386291"
+    },
+    {
+        "chainId": 1,
+        "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+        "name": "Gemini dollar",
+        "decimals": 2,
+        "symbol": "GUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/5992/thumb/gemini-dollar-gusd.png?1536745278"
+    },
+    {
+        "chainId": 1,
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "symbol": "DAI",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
+    },
+    {
+        "chainId": 1,
+        "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
+        "name": "Synth sETH",
+        "decimals": 18,
+        "symbol": "sETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/8843/thumb/sETH.png?1616150207"
+    },
+    {
+        "chainId": 1,
+        "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+        "name": "Decentralized Insurance Protocol",
+        "decimals": 18,
+        "symbol": "DIP",
+        "logoURI": "https://assets.coingecko.com/coins/images/4586/thumb/dip.png?1547039863"
+    },
+    {
+        "chainId": 1,
+        "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+        "name": "Synth sBTC",
+        "decimals": 18,
+        "symbol": "sBTC",
+        "logoURI": "https://assets.coingecko.com/coins/images/8838/thumb/sBTC.png?1616149734"
+    },
+    {
+        "chainId": 1,
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"
+    },
+    {
+        "chainId": 1,
+        "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+        "name": "Compound Dai",
+        "decimals": 8,
+        "symbol": "cDAI",
+        "logoURI": "https://assets.coingecko.com/coins/images/9281/thumb/cDAI.png?1576467585"
+    },
+    {
+        "chainId": 1,
+        "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+        "name": "Fuse Token",
+        "decimals": 18,
+        "symbol": "FUSE",
+        "logoURI": "https://assets.coingecko.com/coins/images/10347/thumb/vUXKHEe.png?1601523640"
+    },
+    {
+        "chainId": 1,
+        "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+        "name": "Chai",
+        "decimals": 18,
+        "symbol": "CHAI",
+        "logoURI": "https://assets.coingecko.com/coins/images/10147/thumb/CHAI.png?1576467289"
+    },
+    {
+        "chainId": 1,
+        "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+        "name": "Gnosis Token",
+        "decimals": 18,
+        "symbol": "GNO",
+        "logoURI": "https://assets.coingecko.com/coins/images/662/thumb/logo_square_simple_300px.png?1609402668"
+    },
+    {
+        "chainId": 1,
+        "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+        "name": "Panvala pan",
+        "decimals": 18,
+        "symbol": "PAN",
+        "logoURI": "https://assets.coingecko.com/coins/images/9543/thumb/pan-logo.png?1568674599"
+    },
+    {
+        "chainId": 1,
+        "address": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
+        "name": "OWL Token",
+        "decimals": 18,
+        "symbol": "OWL",
+        "logoURI": "https://assets.coingecko.com/coins/images/11149/thumb/gnosis-owl_32.png?1589057849"
+    },
+    {
+        "chainId": 1,
+        "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+        "name": "GRID Token",
+        "decimals": 12,
+        "symbol": "GRID",
+        "logoURI": "https://assets.coingecko.com/coins/images/1106/thumb/grid.png?1547743150"
+    },
+    {
+        "chainId": 1,
+        "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
+        "name": "DMM: Governance",
+        "decimals": 18,
+        "symbol": "DMG",
+        "logoURI": "https://assets.coingecko.com/coins/images/11677/thumb/dmm.png?1592674690"
+    },
+    {
+        "chainId": 1,
+        "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
+        "name": "Trustlines Network Token",
+        "decimals": 18,
+        "symbol": "TLN",
+        "logoURI": "https://assets.coingecko.com/coins/images/11562/thumb/Trustlines.png?1591152088"
+    },
+    {
+        "chainId": 1,
+        "address": "0x1Fc31488f28ac846588FFA201cDe0669168471bD",
+        "name": "UAX",
+        "decimals": 2,
+        "symbol": "UAX"
+    },
+    {
+        "chainId": 1,
+        "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+        "name": "DXdao",
+        "decimals": 18,
+        "symbol": "DXD",
+        "logoURI": "https://assets.coingecko.com/coins/images/11148/thumb/dxdao.png?1607999331"
+    },
+    {
+        "chainId": 1,
+        "address": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+        "name": "Digital Rand",
+        "decimals": 6,
+        "symbol": "DZAR",
+        "logoURI": "https://assets.coingecko.com/coins/images/9841/thumb/logo200_%281%29.png?1572577311"
+    },
+    {
+        "chainId": 1,
+        "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "name": "Compound",
+        "decimals": 18,
+        "symbol": "COMP",
+        "logoURI": "https://assets.coingecko.com/coins/images/10775/thumb/COMP.png?1592625425"
+    },
+    {
+        "chainId": 1,
+        "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "name": "UMA Voting Token v1",
+        "decimals": 18,
+        "symbol": "UMA",
+        "logoURI": "https://assets.coingecko.com/coins/images/10951/thumb/UMA.png?1586307916"
+    },
+    {
+        "chainId": 1,
+        "address": "0x374CB8C27130E2c9E04F44303f3c8351B9De61C1",
+        "name": "BaoToken",
+        "decimals": 18,
+        "symbol": "BAO",
+        "logoURI": "https://assets.coingecko.com/coins/images/13547/thumb/BaoLogo.png?1615342483"
+    },
+    {
+        "chainId": 1,
+        "address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+        "name": "Meta",
+        "decimals": 18,
+        "symbol": "MTA",
+        "logoURI": "https://assets.coingecko.com/coins/images/11846/thumb/mStable.png?1594950533"
+    },
+    {
+        "chainId": 1,
+        "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+        "name": "mStable USD",
+        "decimals": 18,
+        "symbol": "mUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803"
+    },
+    {
+        "chainId": 1,
+        "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+        "name": "Synth sUSD",
+        "decimals": 18,
+        "symbol": "sUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
+    },
+    {
+        "chainId": 1,
+        "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "name": "Synthetix Network Token",
+        "decimals": 18,
+        "symbol": "SNX",
+        "logoURI": "https://assets.coingecko.com/coins/images/3406/thumb/SNX.png?1598631139"
+    },
+    {
+        "chainId": 1,
+        "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "name": "DIAToken",
+        "decimals": 18,
+        "symbol": "DIA",
+        "logoURI": "https://assets.coingecko.com/coins/images/11955/thumb/DIA-icon-colour_%281%29.png?1596423488"
+    },
+    {
+        "chainId": 1,
+        "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+        "name": "dHedge DAO Token",
+        "decimals": 18,
+        "symbol": "DHT",
+        "logoURI": "https://assets.coingecko.com/coins/images/12508/thumb/dht.png?1600752201"
+    },
+    {
+        "chainId": 1,
+        "address": "0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE",
+        "name": "Honey",
+        "decimals": 18,
+        "symbol": "HNY",
+        "logoURI": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588"
+    },
+    {
+        "chainId": 1,
+        "address": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+        "name": "GIVToken",
+        "decimals": 8,
+        "symbol": "GIV",
+        "logoURI": "https://assets.coingecko.com/coins/images/8996/thumb/giv.png?1596069222"
+    },
+    {
+        "chainId": 1,
+        "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+        "name": "API3",
+        "decimals": 18,
+        "symbol": "API3",
+        "logoURI": "https://assets.coingecko.com/coins/images/13256/thumb/api3.jpg?1606751424"
+    },
+    {
+        "chainId": 1,
+        "address": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
+        "name": "Aluna",
+        "decimals": 18,
+        "symbol": "ALN",
+        "logoURI": "https://assets.coingecko.com/coins/images/14379/thumb/ALN-token-logo-200px.png?1615778759"
+    },
+    {
+        "chainId": 1,
+        "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+        "name": "Aragon Network Token",
+        "decimals": 18,
+        "symbol": "ANT",
+        "logoURI": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653"
+    },
+    {
+        "chainId": 1,
+        "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+        "name": "Wrapped UST Token",
+        "decimals": 18,
+        "symbol": "UST",
+        "logoURI": "https://assets.coingecko.com/coins/images/12681/thumb/UST.png?1601612407"
+    },
+    {
+        "chainId": 1,
+        "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "name": "Curve DAO Token",
+        "decimals": 18,
+        "symbol": "CRV",
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1597369484"
+    },
+    {
+        "chainId": 1,
+        "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+        "name": "DefiPulse Index",
+        "decimals": 18,
+        "symbol": "DPI",
+        "logoURI": "https://assets.coingecko.com/coins/images/12465/thumb/defi_pulse_index_set.png?1600051053"
+    }
+]
