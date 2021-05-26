@@ -188,7 +188,7 @@
         "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
         "name": "FTT on xDai",
         "decimals": 18,
-        "symbol": "FTX Token"
+        "symbol": "FTX"
     },
     {
         "chainId": 100,
