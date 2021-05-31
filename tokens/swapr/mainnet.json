@@ -17,6 +17,94 @@
     },
     {
         "chainId": 1,
+        "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "name": "Sushi",
+        "decimals": 18,
+        "symbol": "SUSHI",
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688"
+    },
+    {
+        "chainId": 1,
+        "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "name": "Chainlink",
+        "decimals": 18,
+        "symbol": "LINK",
+        "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700"
+    },
+    {
+        "chainId": 1,
+        "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "name": "yearn.finance",
+        "decimals": 18,
+        "symbol": "YFI",
+        "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330"
+    },
+    {
+        "chainId": 1,
+        "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+        "name": "Tornado Cash",
+        "symbol": "TORN",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13496/thumb/ZINt8NSB_400x400.jpg?1609193407"
+    },
+    {
+        "chainId": 1,
+        "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+        "name": "Liquity",
+        "symbol": "LQTY",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1617631180"
+    },
+    {
+        "chainId": 1,
+        "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "name": "The Graph",
+        "decimals": 18,
+        "symbol": "GRT",
+        "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
+    },
+    {
+        "chainId": 1,
+        "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+        "name": "Radicle",
+        "decimals": 18,
+        "symbol": "RAD",
+        "logoURI": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918"
+    },
+    {
+        "chainId": 1,
+        "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+        "name": "Liquity USD",
+        "symbol": "LUSD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1617631327"
+    },
+    {
+        "chainId": 1,
+        "address": "0x543ff227f64aa17ea132bf9886cab5db55dcaddf",
+        "name": "DAOstack",
+        "symbol": "GEN",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/3479/thumb/gen.png?1547038215"
+    },
+    {
+        "chainId": 1,
+        "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "name": "Loopring",
+        "decimals": 18,
+        "symbol": "LRC",
+        "logoURI": "https://assets.coingecko.com/coins/images/913/thumb/LRC.png?1572852344"
+    },
+    {
+        "chainId": 1,
+        "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+        "name": "Kleros",
+        "symbol": "PNK",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/3833/thumb/kleros.png?1547975322"
+    },
+    {
+        "chainId": 1,
         "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
         "name": "MakerDAO",
         "decimals": 18,
@@ -86,14 +174,6 @@
         "decimals": 18,
         "symbol": "sETH",
         "logoURI": "https://assets.coingecko.com/coins/images/8843/thumb/sETH.png?1616150207"
-    },
-    {
-        "chainId": 1,
-        "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
-        "name": "Decentralized Insurance Protocol",
-        "decimals": 18,
-        "symbol": "DIP",
-        "logoURI": "https://assets.coingecko.com/coins/images/4586/thumb/dip.png?1547039863"
     },
     {
         "chainId": 1,
@@ -169,14 +249,6 @@
     },
     {
         "chainId": 1,
-        "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
-        "name": "DMM: Governance",
-        "decimals": 18,
-        "symbol": "DMG",
-        "logoURI": "https://assets.coingecko.com/coins/images/11677/thumb/dmm.png?1592674690"
-    },
-    {
-        "chainId": 1,
         "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
         "name": "Trustlines Network Token",
         "decimals": 18,
@@ -197,14 +269,6 @@
         "decimals": 18,
         "symbol": "DXD",
         "logoURI": "https://assets.coingecko.com/coins/images/11148/thumb/dxdao.png?1607999331"
-    },
-    {
-        "chainId": 1,
-        "address": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
-        "name": "Digital Rand",
-        "decimals": 6,
-        "symbol": "DZAR",
-        "logoURI": "https://assets.coingecko.com/coins/images/9841/thumb/logo200_%281%29.png?1572577311"
     },
     {
         "chainId": 1,
