@@ -9,6 +9,14 @@
     },
     {
         "chainId": 100,
+        "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
+        "name": "Aave Token on xDai",
+        "decimals": 18,
+        "symbol": "AAVE",
+        "logoURI": "ipfs://QmWzL3TSmkMhbqGBEwyeFyWVvLmEo3F44HBMFnmTUiTfp1"
+    },
+    {
+        "chainId": 100,
         "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
         "name": "STAKE on xDai",
         "decimals": 18,
