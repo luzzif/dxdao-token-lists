@@ -56,6 +56,22 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
     },
     {
+        "name": "1INCH Token on xDai",
+        "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
+        "symbol": "1INCH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+    },
+    {
+        "name": "Bancor Network Token on xDai",
+        "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
+        "symbol": "BNT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/bancor_32.png"
+    },
+    {
         "name": "SushiToken on xDai",
         "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
         "symbol": "SUSHI",

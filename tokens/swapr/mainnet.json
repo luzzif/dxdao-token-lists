@@ -217,6 +217,22 @@
     },
     {
         "chainId": 1,
+        "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+        "name": "Bancor Network Token",
+        "symbol": "BNT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/736/thumb/bancor.png?1547034477"
+    },
+    {
+        "chainId": 1,
+        "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "name": "1Inch",
+        "symbol": "1INCH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+    },
+    {
+        "chainId": 1,
         "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
         "name": "Chai",
         "decimals": 18,
