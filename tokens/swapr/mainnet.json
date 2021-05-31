@@ -209,6 +209,14 @@
     },
     {
         "chainId": 1,
+        "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+        "name": "Gitcoin",
+        "symbol": "GTC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929"
+    },
+    {
+        "chainId": 1,
         "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
         "name": "Chai",
         "decimals": 18,
