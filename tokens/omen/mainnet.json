@@ -1,0 +1,26 @@
+[
+    {
+        "chainId": 1,
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
+    },
+    {
+        "chainId": 1,
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "symbol": "DAI",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
+    },
+    {
+        "chainId": 1,
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"
+    }
+]

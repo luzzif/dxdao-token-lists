@@ -8,7 +8,9 @@
     "private": true,
     "scripts": {
         "lint:commit-message": "commitlint -e",
-        "build:swapr": "ts-node ./scripts/build-list.ts swapr ipfs://bafybeiahgkvhgmzep4jclwgwntfaee3ca7azjsxj47lfvrecupuv6rcxo4/favicon.png"
+        "build:swapr": "ts-node ./scripts/build-list.ts swapr ipfs://bafybeiahgkvhgmzep4jclwgwntfaee3ca7azjsxj47lfvrecupuv6rcxo4/favicon.png",
+        "build:omen": "ts-node ./scripts/build-list.ts omen ipfs://bafybeicqrvy6dk6aijwyicat5lchktvvq55ugjcxngs3szqxasopaootvi/Omen.png"
+
     },
     "devDependencies": {
         "@commitlint/cli": "^12.1.4",
