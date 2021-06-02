@@ -1,0 +1,52 @@
+[
+    {
+        "chainId": 4,
+        "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH"
+    },
+    {
+        "chainId": 4,
+        "address": "0xCa8B6Cb2834b9Aaba57FD74c1Ed8E5F2bCBa47cB",
+        "name": "Omen",
+        "decimals": 18,
+        "symbol": "OMN"
+    },
+    {
+        "chainId": 4,
+        "address": "0xbf7a7169562078c96f0ec1a8afd6ae50f12e5a99",
+        "name": "Basic Att. Token",
+        "decimals": 18,
+        "symbol": "BAT"
+    },
+    {
+        "chainId": 4,
+        "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
+        "name": "Dai",
+        "decimals": 18,
+        "symbol": "DAI"
+    },
+    {
+        "chainId": 4,
+        "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC"
+    },
+    {
+        "chainId": 4,
+        "address": "0xd9ba894e0097f8cc2bbc9d24d308b98e36dc6d02",
+        "name": "Tether",
+        "decimals": 18,
+        "symbol": "USDT"
+    },
+    {
+        "chainId": 4,
+        "address": "0xddea378a6ddc8afec82c36e9b0078826bf9e68b6",
+        "name": "0x",
+        "decimals": 18,
+        "symbol": "ZRX"
+    }
+    
+]
