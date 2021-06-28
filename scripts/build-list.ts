@@ -2,6 +2,8 @@ import path from "path";
 import fs from "fs";
 import { glob } from "glob";
 import { TokenInfo } from "@uniswap/token-lists";
+import schema from "@uniswap/token-lists/src/tokenlist.schema.json";
+import Ajv from "ajv";
 
 const [, , target, logoURI, version] = process.argv;
 if (!target) throw new Error("undefined target");
@@ -38,6 +40,16 @@ glob(path.join(__dirname, `../tokens/${target}/*.json`), (error, matches) => {
             return t1.chainId < t2.chainId ? -1 : 1;
         }),
     };
+
+    const tokenListValidator = new Ajv({ allErrors: true }).compile(schema);
+    if (!tokenListValidator(list) && tokenListValidator.errors) {
+        const validationErrors: string =
+            tokenListValidator.errors.reduce<string>((memo, error) => {
+                const add = `${error.data} ${error.message || ""}`;
+                return memo.length > 0 ? `${memo}; ${add}` : `${add}`;
+            }, "") || "unknown error";
+        throw new Error(`Token list failed validation: ${validationErrors}`);
+    }
 
     const destinationPath = path.join(__dirname, "../lists");
     if (!fs.existsSync(destinationPath)) fs.mkdirSync(destinationPath);

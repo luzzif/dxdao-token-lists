@@ -10,7 +10,6 @@
         "lint:commit-message": "commitlint -e",
         "build:swapr": "ts-node ./scripts/build-list.ts swapr ipfs://bafybeiahgkvhgmzep4jclwgwntfaee3ca7azjsxj47lfvrecupuv6rcxo4/favicon.png",
         "build:omen": "ts-node ./scripts/build-list.ts omen ipfs://bafybeicqrvy6dk6aijwyicat5lchktvvq55ugjcxngs3szqxasopaootvi/Omen.png"
-
     },
     "devDependencies": {
         "@commitlint/cli": "^12.1.4",
@@ -18,6 +17,7 @@
         "@types/glob": "^7.1.3",
         "@types/node": "^15.6.1",
         "@uniswap/token-lists": "^1.0.0-beta.24",
+        "ajv": "^6.12.3",
         "eslint": "^7.27.0",
         "glob": "^7.1.7",
         "prettier": "^2.3.0",

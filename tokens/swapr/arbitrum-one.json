@@ -29,7 +29,6 @@
         "name": "Capital.finance",
         "symbol": "CAP",
         "decimals": 18,
-        "logoURI": "",
         "extensions": {
             "l1Address": "0xEDA6eFE5556e134Ef52f2F858aa1e81c84CDA84b",
             "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
@@ -101,7 +100,6 @@
         "name": "dForce EUR",
         "symbol": "EUX",
         "decimals": 18,
-        "logoURI": "",
         "extensions": {
             "l1Address": "0xb986F3a2d91d3704Dc974A24FB735dCc5E3C1E70",
             "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
@@ -245,7 +243,6 @@
         "name": "dForce USD",
         "symbol": "USX",
         "decimals": 18,
-        "logoURI": "",
         "extensions": {
             "l1Address": "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
             "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
