@@ -1,0 +1,10 @@
+[
+    {
+        "chainId": 421611,
+        "address": "0x5d47100B0854525685907D5D773b92c22c0c745e",
+        "name": "DXdao from Ethereum",
+        "symbol": "DXD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/11148/thumb/dxdao.png?1607999331"
+    }
+]
