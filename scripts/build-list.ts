@@ -45,7 +45,7 @@ glob(path.join(__dirname, `../tokens/${target}/*.json`), (error, matches) => {
     if (!tokenListValidator(list) && tokenListValidator.errors) {
         const validationErrors: string =
             tokenListValidator.errors.reduce<string>((memo, error) => {
-                const add = `${error.data} ${error.message || ""}`;
+                const add = `${error.dataPath} ${error.message || ""}`;
                 return memo.length > 0 ? `${memo}; ${add}` : `${add}`;
             }, "") || "unknown error";
         throw new Error(`Token list failed validation: ${validationErrors}`);
