@@ -1,6 +1,14 @@
 [
     {
         "chainId": 1,
+        "address": "0xe54942077Df7b8EEf8D4e6bCe2f7B58B0082b0cd",
+        "name": "Swapr",
+        "symbol": "SWPR",
+        "decimals": 18,
+        "logoURI": "ipfs://QmWF6nPb4y2DehfGRzKGaekXQzShSQ11uzMNmxsLJQxBUQ"
+    },
+    {
+        "chainId": 1,
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "name": "Wrapped Ether",
         "decimals": 18,
