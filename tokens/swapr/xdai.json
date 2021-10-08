@@ -9,6 +9,14 @@
     },
     {
         "chainId": 100,
+        "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
+        "name": "Swapr",
+        "symbol": "SWPR",
+        "decimals": 18,
+        "logoURI": "ipfs://QmWF6nPb4y2DehfGRzKGaekXQzShSQ11uzMNmxsLJQxBUQ"
+    },
+    {
+        "chainId": 100,
         "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
         "name": "Aave Token on xDai",
         "decimals": 18,
