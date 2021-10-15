@@ -1,5 +1,21 @@
 [
     {
+        "chainId": 42161,
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "symbol": "DAI",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+        "chainId": 42161,
+        "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
+        "name": "ARBIS | We have the yields",
+        "decimals": 18,
+        "symbol": "ARBIS",
+        "logoURI": "ipfs://Qmdsqobmuf4Qr6wb1ZyXUtK8hhZwovRBawpcY9wswRpm8s"
+    },
+    {
         "logoURI": "https://zapper.fi/images/0XBTC-icon.png",
         "chainId": 42161,
         "address": "0x7cb16cb78ea464aD35c8a50ABF95dff3c9e09d5d",
