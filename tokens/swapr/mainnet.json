@@ -9,6 +9,14 @@
     },
     {
         "chainId": 1,
+        "address": "0xbD9908b0Cdd50386F92efCC8e1d71766C2782Df0",
+        "name": "DAOSquare Governance Token",
+        "symbol": "RICE",
+        "decimals": 18,
+        "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png"
+    },
+    {
+        "chainId": 1,
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "name": "Wrapped Ether",
         "decimals": 18,
