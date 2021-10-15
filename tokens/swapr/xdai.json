@@ -9,6 +9,14 @@
     },
     {
         "chainId": 100,
+        "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
+        "name": "DAOSquare Governance Token from Ethereum",
+        "decimals": 18,
+        "symbol": "RICE",
+        "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png"
+    },
+    {
+        "chainId": 100,
         "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
         "name": "Swapr",
         "symbol": "SWPR",
