@@ -469,7 +469,7 @@
         "name": "Synth sUSD",
         "symbol": "sUSD",
         "decimals": 18
-    }
+    },
     {
         "logoURI": "https://badger.com/images/uploads/ibbtc.png",
         "chainId": 42161,
