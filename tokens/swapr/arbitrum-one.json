@@ -469,5 +469,13 @@
         "name": "Synth sUSD",
         "symbol": "sUSD",
         "decimals": 18
+    },
+    {
+        "logoURI": "https://badger.com/images/uploads/ibbtc.png",
+        "chainId": 42161,
+        "address": "0x9ab3fd50fcae73a1aeda959468fd0d662c881b42",
+        "name": "Interest Bearing BTC",
+        "symbol": "ibBTC",
+        "decimals": 18
     }
 ]
