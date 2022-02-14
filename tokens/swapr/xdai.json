@@ -301,5 +301,13 @@
         "decimals": 18,
         "symbol": "BUSD",
         "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+        "chainId": 100,
+        "address": "0x481D6104761442F162d1f7AC3DC6F98896e7A4ef",
+        "name": "Moon Rock",
+        "decimals": 18,
+        "symbol": "MR",
+        "logoURI": "https://moonrock.herodao.org/_next/image?url=%2Fmoonrock_token.png&w=640&q=75"
     }
 ]
