@@ -477,5 +477,13 @@
         "name": "Interest Bearing BTC",
         "symbol": "ibBTC",
         "decimals": 18
+    },
+    {
+        "chainId": 42161,
+        "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+        "name": "Hundred Finance",
+        "decimals": 18,
+        "symbol": "HND",
+        "logoURI": "https://raw.githubusercontent.com/hundred-finance/hundred-interface/30d6c9d198243f4c7d354011a1199fd6a222ac54/public/logo128.png"
     }
 ]

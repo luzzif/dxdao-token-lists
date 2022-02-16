@@ -301,5 +301,29 @@
         "decimals": 18,
         "symbol": "BUSD",
         "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+        "chainId": 100,
+        "address": "0x481D6104761442F162d1f7AC3DC6F98896e7A4ef",
+        "name": "Moon Rock",
+        "decimals": 18,
+        "symbol": "MR",
+        "logoURI": "https://moonrock.herodao.org/_next/image?url=%2Fmoonrock_token.png&w=640&q=75"
+    },
+    {
+        "chainId": 100,
+        "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+        "name": "Hundred Finance",
+        "decimals": 18,
+        "symbol": "HND",
+        "logoURI": "https://raw.githubusercontent.com/hundred-finance/hundred-interface/30d6c9d198243f4c7d354011a1199fd6a222ac54/public/logo128.png"
+    },
+    {
+        "chainId": 100,
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "name": "Mai Finance",
+        "decimals": 18,
+        "symbol": "MAI",
+        "logoURI": "https://www.mai.finance/mai-logo.svg"
     }
 ]
