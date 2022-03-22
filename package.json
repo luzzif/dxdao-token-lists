@@ -1,6 +1,6 @@
 {
     "name": "dxdao-token-lists",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Umbrella project for DXdao's token lists.",
     "repository": "https://github.com/luzzif/dxdao-token-lists",
     "author": "Federico Luzzi <fedeluzzi00@gmail.com>",
