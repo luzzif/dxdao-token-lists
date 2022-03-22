@@ -453,5 +453,13 @@
         "decimals": 18,
         "symbol": "HND",
         "logoURI": "https://raw.githubusercontent.com/hundred-finance/hundred-interface/30d6c9d198243f4c7d354011a1199fd6a222ac54/public/logo128.png"
+    },
+    {
+        "chainId": 1,
+        "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+        "name": "COW Token",
+        "decimals": 18,
+        "symbol": "COW",
+        "logoURI": "ipfs://QmQbmjXdz2UyhgetRDGeu119MSJ8KZ88ybxeN86obnqdps"
     }
 ]
