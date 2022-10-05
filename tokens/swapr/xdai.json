@@ -333,5 +333,13 @@
         "decimals": 18,
         "symbol": "COW",
         "logoURI": "ipfs://QmQbmjXdz2UyhgetRDGeu119MSJ8KZ88ybxeN86obnqdps"
+    },
+    {
+        "chainId": 100,
+        "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+        "name": "Minerva Wallet SuperToken",
+        "decimals": 18,
+        "symbol": "MIVA",
+        "logoURI": "https://minerva.digital/i/MIVA-Token.svg"
     }
 ]
