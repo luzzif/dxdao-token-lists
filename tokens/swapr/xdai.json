@@ -333,5 +333,13 @@
         "decimals": 18,
         "symbol": "COW",
         "logoURI": "ipfs://QmQbmjXdz2UyhgetRDGeu119MSJ8KZ88ybxeN86obnqdps"
+    },
+    {
+        "chainId": 100,
+        "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+        "name": "QiDao",
+        "decimals": 18,
+        "symbol": "QI",
+        "logoURI": "ipfs://QmPDiTm1DovvSUeyDJTWPz7q5GDeTD1kHvcXXvsJRFkEKx"
     }
 ]
