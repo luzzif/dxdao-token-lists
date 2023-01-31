@@ -30,7 +30,7 @@
         "decimals": 18,
         "chainId": 5,
         "logoURI": ""
-      }
+      },
       {
         "name": "YEENUS",
         "address": "0xCAa25b771ca84ea3485F8a385A2Ed829BEa59322",
@@ -38,7 +38,7 @@
         "decimals": 18,
         "chainId": 5,
         "logoURI": ""
-      }
+      },
       {
         "name": "XEENUS",
         "address": "0x3C2FbA48a148Ac3721734E2e34805F1c53EAbE0D",
