@@ -1,0 +1,26 @@
+[
+    {
+      "name": "WEENUS",
+      "address": "0xb86F677A9EcAfc1584c6bEf4d7Fb9ca45770BDf6",
+      "symbol": "WEENUS",
+      "decimals": 18,
+      "chainId": 421613,
+      "logoURI": ""
+    },
+    {
+        "name": "YEENUS ",
+        "address": "0x609bd35D785FEd3102852066a0bFdda1D58eDDEF",
+        "symbol": "YEENUS",
+        "decimals": 18,
+        "chainId": 421613,
+        "logoURI": ""
+      },
+      {
+        "name": "XEENUS",
+        "address": "0xd05d68E120AcD974A2c6827df4D1A8413581aa4A",
+        "symbol": "XEENUS",
+        "decimals": 18,
+        "chainId": 421613,
+        "logoURI": ""
+      }
+  ]
