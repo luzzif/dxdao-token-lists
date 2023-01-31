@@ -22,5 +22,29 @@
         "decimals": 6,
         "chainId": 5,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+      },
+      {
+        "name": "WEENUS",
+        "address": "0x02E560f3b5f37CEDC546C54C2BBA813307A381bd",
+        "symbol": "WEENUS",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": ""
+      }
+      {
+        "name": "YEENUS",
+        "address": "0xCAa25b771ca84ea3485F8a385A2Ed829BEa59322",
+        "symbol": "YEENUS",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": ""
+      }
+      {
+        "name": "XEENUS",
+        "address": "0x3C2FbA48a148Ac3721734E2e34805F1c53EAbE0D",
+        "symbol": "XEENUS",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": ""
       }
   ]
