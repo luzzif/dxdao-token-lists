@@ -332,7 +332,7 @@
         "name": "Cow Token",
         "decimals": 18,
         "symbol": "COW",
-        "logoURI": "ipfs://QmQbmjXdz2UyhgetRDGeu119MSJ8KZ88ybxeN86obnqdps"
+        "logoURI": "https://assets.coingecko.com/coins/images/24384/small/cow.png?1660960589 "
     },
     {
         "chainId": 100,
