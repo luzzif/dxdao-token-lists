@@ -6,5 +6,26 @@
         "decimals": 18,
         "chainId": 11155111,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    },
+    {
+        "name": "A token",
+        "address": "0x279E7154B3ce368045929Dd8e51c15c7f74351bf",
+        "symbol": "AAA",
+        "decimals": 18,
+        "chainId": 11155111
+    },
+    {
+        "name": "B token",
+        "address": "0x31F6967490204bbAE0763eE26709686b4477477f",
+        "symbol": "BBB",
+        "decimals": 6,
+        "chainId": 11155111
+    },
+    {
+        "name": "C token",
+        "address": "0x6fFEbe71762EA02eA490491fa6cab90b2f744787",
+        "symbol": "C",
+        "decimals": 0,
+        "chainId": 11155111
     }
 ]
